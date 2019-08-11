@@ -10,7 +10,7 @@ public class Prob05 {
 		while(true) {    Random r = new Random();
         int k = r.nextInt(100); 
         System.out.println("수를 결정하였습니다. 맞추어보세요");
-        System.out.println("0-99");
+        System.out.println("0-100");
         int i = 1;
         while(true) { 
             
